@@ -1,0 +1,7 @@
+-> The Models folders contains the Trainded models.
+-> Run the app.py
+-> If it asks to download the dependencies then download and run it.
+
+Note:
+
+-> If the model didn't predict correctly then the models needs to be again trained using the new datasets. 
