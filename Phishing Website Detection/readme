@@ -9,6 +9,13 @@ Dataset_creation:
   -> There are three files in it.Using that three files create the dataset.
   -> Every file creates the three different datasets .Merge those datasets.
 
+Note:
+  -> For creating the dataset , initial dataset must be provided to the dataset creation programs.
+  -> The initial dataset must contains the urls and the flag (1 - for phishing and 0 - for legitimate).
+  -> The Phishing urls can be found in PhishTank website and Phishing.Database github repository.
+  -> After obtaining the phishing urls create the dataset as soon as possible.Because the dataset creation programs create the datasets based on the request/response of that website.
+  -> The legitimate urls con be found in kaggle website.
+
 Models:
   -> Models folder contains the already trained models and the training code.
   -> If the models didn't work properly in the implementation then again train the models using the training code and the datasets.
