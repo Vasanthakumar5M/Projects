@@ -1,1 +1,18 @@
-Here Implementation is the project
+Phishing Website Detection System:
+  -> This system effectively detects the given website is phishing website or legitimate website using the machine learning models.
+  -> Algorithms used:
+        * BERT(Bidirectional Encoder Representations from Transformers)
+        * Random Forest
+
+Dataset_creation:
+  -> This folder contains the dataset creation programs.
+  -> There are three files in it.Using that three files create the dataset.
+  -> Every file creates the three different datasets .Merge those datasets.
+
+Models:
+  -> Models folder contains the already trained models and the training code.
+  -> If the models didn't work properly in the implementation then again train the models using the training code and the datasets.
+  -> Use kaggle for training the models efficiently.
+
+Implementation:
+  -> This folder contains the actual implementation of the phishing website detection system.
